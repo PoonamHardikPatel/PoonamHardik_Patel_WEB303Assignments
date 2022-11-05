@@ -1,0 +1,106 @@
+html, body{
+    margin: 0px;
+    font-size: 18px;
+    font-family: arial;
+}
+.a{
+    max-width: 800px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 800px;
+    height: 500px;
+}
+.tab_b{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.tab_b li{
+    display: inline-block;
+    padding: 5px 15px;
+    background: #0a6fc4;
+    min-width: 100px;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px 5px 0 0;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.tab_b li.active,
+.tab_b li:hover{
+    background: #035091;
+}
+.tab_a_area{}
+.tab_a{
+    padding: 10px;
+    background: #035091;
+    color: #fff;
+    border-radius: 0 5px 5px 5px;
+    display: none;
+}
+
+
+.tab_b1{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.tab_b1 li{
+    display: inline-block;
+    padding: 5px 15px;
+    background: #0a6fc4;
+    min-width: 100px;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px 5px 0 0;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.tab_b1 li.active,
+.tab_b1 li:hover{
+    background: #095091;
+}
+.tab_a_area{}
+.tab_a1{
+    padding: 10px;
+    background: #095091;
+    color: #fff;
+    border-radius: 0 5px 5px 5px;
+    display: none;
+}
+
+.accordian_b{
+    border: 1px solid grey;
+    padding: 0 15px 1px;
+    background: #e1e1e1;
+    color: #332e2e;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+.accordian_b.active{
+    background: #fff;
+}
+.acc_trigger{
+    padding: 15px 40px 15px 0;
+    margin: 0;
+    font-family: 30px;
+    position: relative;
+}
+.acc_trigger i{
+    position: absolute;
+    right:  0;
+    top: 16px;
+    font-size: 20px;
+}
+.acc_a{
+    display: none;
+}
+.acc_a p{
+    margin-top: 0px;
+    line-height: 1.6;
+}
