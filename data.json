@@ -1,0 +1,51 @@
+  [{
+          "char_id":"1",
+          "firstname":"Bella",
+          "lastname":"Swan",
+          "character":"Love interest",
+          "production":" Paramount Pictures"
+     },
+     {
+          "char_id":"2",
+          "firstname":"Edward",
+          "lastname":"Cullen",
+          "character":"Love interest",
+          "production":" Paramount Pictures"
+     },
+     {
+          "char_id":"3",
+          "firstname":"Carlisle",
+          "lastname":"Cullen",
+          "character":"Confidante",
+          "production":" Paramount Pictures"
+     },
+     {
+          "char_id":"4",
+          "firstname":"Rosalie",
+          "lastname":"Hale",
+          "character":"Antagonist",
+          "production":" Paramount Pictures"
+     },
+     {
+          "char_id":"5",
+          "firstname":"Charlie",
+          "lastname":"Swan",
+          "character":"Protagonist",
+          "production":" Paramount Pictures"
+     },
+     {
+          "char_id":"6",
+          "firstname":"Eric",
+          "lastname":"Yorkie",
+          "character":"Confidante",
+          "production":" Paramount Pictures"
+     },
+     {     
+          "char_id":"7",
+          "firstname":"Victoria",
+          "lastname":"Sutherland",
+          "character":"Symbolic",
+          "production":" Paramount Pictures"
+     }
+
+]
