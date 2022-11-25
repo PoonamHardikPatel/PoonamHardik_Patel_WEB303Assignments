@@ -1,0 +1,65 @@
+[
+  {
+          "char_id":"1",
+          "firstname":"Bella",
+          "lastname":"Swan",
+          "character":"Love interest",
+          "production":" Paramount Pictures",
+          "email": "Bella@mailinator.com",
+          "date": "10-05-2022"
+  },
+  {
+    "char_id":"2",
+    "firstname":"Edward",
+          "lastname":"Cullen",
+          "character":"Love interest",
+          "production":" Paramount Pictures",
+          "email": "Edward@mailinator.com",
+          "date": "09-04-2022"
+  },
+  {
+    "char_id":"3",
+    "firstname":"Carlisle",
+          "lastname":"Cullen",
+          "character":"Confidante",
+          "production":" Paramount Pictures",
+          "email": "Carlisle@mailinator.com",
+          "date": "21-09-2022"
+  },
+  {
+    "char_id":"4",
+    "firstname":"Rosalie",
+    "lastname":"Hale",
+    "character":"Antagonist",
+    "production":" Paramount Pictures",
+          "email": "Rosalie@mailinator.com",
+          "date": "18-03-2022"
+  },
+  {
+    "char_id":"5",
+    "firstname":"Charlie",
+    "lastname":"Swan",
+    "character":"Protagonist",
+    "production":" Paramount Pictures",
+          "email": "Charlie@mailinator.com",
+          "date": "29-07-2022"
+  },
+  {
+    "char_id":"6",
+    "firstname":"Eric",
+    "lastname":"Yorkie",
+    "character":"Confidante",
+    "production":" Paramount Pictures",
+          "email": "Eric@mailinator.com",
+          "date": "16-10-2022"
+  },
+  {
+    "char_id":"7",
+    "firstname":"Victoria",
+    "lastname":"Sutherland",
+    "character":"Symbolic",
+    "production":" Paramount Pictures",
+          "email": "Victoria@mailinator.com",
+          "date": "13-12-2022"
+  }
+]
